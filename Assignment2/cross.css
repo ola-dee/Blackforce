@@ -1,0 +1,93 @@
+
+/*h1 {
+  background-color: black;
+}*/
+
+.title_bar_top {
+  background-color: black; margin: 0; padding: 0; box-sizing: border-box; 
+}
+
+
+
+
+.button {color: red;}
+
+a {text-decoration: none; font-size: large; text-align: left; color: palevioletred;} 
+
+.inline{
+  background-color: blanchedalmond; min-height: 15vh; width: 100%;bottom: 0; left: 0;
+}
+h1 {
+    margin-top: 0cm ; align-items: center; color: whitesmoke; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; margin: 0;
+}
+
+i {color: peachpuff;}
+
+.bar1 {
+  width: 30px;
+  height: 5px;
+  background-color: black;
+  margin: 4px 0;
+}
+
+body{
+  background-color: gray;
+}
+
+inline{
+  background-color: darkgrey;
+}
+
+.inline{
+  text-align: right;
+}
+.menu {
+  color: black;
+}
+.intro {
+  text-align: center; font-size: 2rem; font-family: re; font-weight: 500; margin-top: 0em; padding-top: 6em; font-size: 2.5em;
+}
+
+
+.pry{
+  text-align: center; font: size 4rem; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   ;
+}
+
+.introduction{
+  background-color: brown; min-height: 75vh; margin: 0; padding-top: 0; width: 100%; margin-top: 0%;
+}
+.myprojectsheader {
+  text-align: center; margin-top: 3em; font-size: 40px; text-decoration-line: underline; margin-bottom: 2em; border-bottom: 0.25rem; text-underline-offset: 0.5em;
+}
+
+
+
+
+.row {
+  box-sizing: border-box; 
+}
+
+.column {
+  margin-top: 12px;
+  float: left; width: 50;
+  }
+.other{
+  margin-top: 12px; float: right; width: 50%;
+}
+
+
+
+.contact-section {
+  margin-top:100%; text-align: center; background-color: yellowgreen;
+}
+
+
+
+
+.footer{
+  text-align: center; background-color: darkolivegreen ; margin: 0; color: aliceblue; font-size:1.5em; min-height: 10vh;
+}
+.project-title {
+  color:aliceblue; 
+}

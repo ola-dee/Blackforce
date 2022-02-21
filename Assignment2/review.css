@@ -1,0 +1,62 @@
+/*h1{
+    color: rgb(225, 24, 243);
+    font-size: 30px;
+    background-color: blanchedalmond;
+}
+p{
+    background-color: gray;
+}
+
+#myId {
+    color: red;
+}*/
+
+/*.Ourclass {
+    color: darkviolet;
+}
+#myId{
+    color: chartreuse;
+}
+
+body {
+    background-color: cornsilk;
+}
+/** {
+    text-align: center;
+    color: blue;
+}*/
+
+.day6 { 
+
+    /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
+    color: skyblue; background-color: beige; text-align: center;
+    padding: 20px;
+
+}
+
+body {
+    font-family: "sofia", sans-serif;
+}
+
+h1 {
+    padding: 20px;
+    border: 4px solid rebeccapurple;
+}
+
+button{
+
+    tab-size: 5em ;
+}
+
+h5{
+  padding: 20px;  border: 5px solid purple;
+  margin: 30px;
+  margin-left: 4px; margin-right: 4px;
+}
+.hero {min-height: 100vh;
+    background-color: grey;
+background-image: url("day3photo.webp") ; background-repeat: no-repeat;
+}
+
+body { background-color: peachpuff }
+

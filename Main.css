@@ -1,0 +1,16 @@
+.Day7{
+    padding: 20px; 
+    border: 20px solid green; font-size: 2em;
+    
+}
+
+.hero{
+min-height: 60vh; font-size: em;
+background-image: url("./HTML\ Class/day3photo.webp");
+}
+
+p{ color: red; font-size: 40px;}
+
+h1{ color: royalblue; font-size: 40px;}
+
+#specificity {background-color: skyblue; }
