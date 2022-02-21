@@ -1,11 +1,24 @@
 .Day7{
     padding: 20px; 
-    border: 20px solid green; font-size: 2em;
+    border: 5px solid green; font-size: 2em; text-align: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     
 }
 
+a:link, a:visited {
+  background-color: blueviolet;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
 .hero{
-min-height: 60vh; font-size: em;
+min-height: 5vh; font-size: em;
 background-image: url("./HTML\ Class/day3photo.webp");
 }
 
@@ -14,3 +27,20 @@ p{ color: red; font-size: 40px;}
 h1{ color: royalblue; font-size: 40px;}
 
 #specificity {background-color: skyblue; }
+
+.nav {
+    background-color: yellowgreen;
+    list-style-position: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav {
+    display: inline-block;
+    font-size: 1.5em;
+    padding: 20px;
+}
+
+body{ background-color: beige }
